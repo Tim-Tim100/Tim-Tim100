@@ -45,10 +45,10 @@ I am a **results-driven Data Scientist** and **ML Engineer** passionate about tr
 
 | Project | Business Impact & Technical approach | Stack | Code |
 | :--- | :--- | :--- | :---: |
-| **🧩 Customer Segmentation** | **Targeting Optimization:** Applied Unsupervised Learning (K-Means) to cluster customers, enabling personalized marketing strategies and improved retention. | Scikit-Learn, Pandas | [View](#) |
-| **🔁 Churn Prediction** | **Risk Mitigation:** Developed a supervised classification pipeline (Logistic Regression & Ensembles) to identify at-risk customers with high precision. | Python, XGBoost | [View](#) |
-| **❤️ Heart Disease Risk** | **Healthcare Analytics:** Built a diagnostic support tool analyzing key medical indicators to predict potential cardiac risks. | Python, Seaborn | [View](#) |
-| **🏠 House Price Valuation** | **Market Analysis:** Engineered a regression model with advanced feature selection to accurately estimate real estate values based on market variables. | Scikit-Learn | [View](#) |
+| **🧩 Customer Segmentation** | **Targeting Optimization:** Applied Unsupervised Learning (K-Means) to cluster customers, enabling personalized marketing strategies and improved retention. | Scikit-Learn, Pandas | [View](https://github.com/Tim-Tim100/customer-segmentation-ml) |
+| **🔁 Churn Prediction** | **Risk Mitigation:** Developed a supervised classification pipeline (Logistic Regression & Ensembles) to identify at-risk customers with high precision. | Python, XGBoost | [View](https://github.com/Tim-Tim100/Customer-Churn-Prediction) |
+| **❤️ Heart Disease Risk** | **Healthcare Analytics:** Built a diagnostic support tool analyzing key medical indicators to predict potential cardiac risks. | Python, Seaborn | [View](https://github.com/Tim-Tim100/Heart-Disease-Prediction) |
+| **🏠 House Price Valuation** | **Market Analysis:** Engineered a regression model with advanced feature selection to accurately estimate real estate values based on market variables. | Scikit-Learn | [View](github.com/Tim-Tim100/House-Price-Prediction-) |
 |
 
 ---
@@ -86,9 +86,9 @@ I am a **results-driven Data Scientist** and **ML Engineer** passionate about tr
 
 <div align="center">
 
-[![Toyeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tim-Tim100&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Toyeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tim-Tim100&show_icons=true&theme=radical)](https://github.com/Tim-Tim100/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Tim100&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Tim100&layout=compact&theme=radical)](https://github.com/Tim-Tim100/github-readme-stats)
 
 </div>
 
