@@ -48,7 +48,7 @@ I am a **results-driven Data Scientist** and **ML Engineer** passionate about tr
 | **🧩 Customer Segmentation** | **Targeting Optimization:** Applied Unsupervised Learning (K-Means) to cluster customers, enabling personalized marketing strategies and improved retention. | Scikit-Learn, Pandas | [View](https://github.com/Tim-Tim100/customer-segmentation-ml) |
 | **🔁 Churn Prediction** | **Risk Mitigation:** Developed a supervised classification pipeline (Logistic Regression & Ensembles) to identify at-risk customers with high precision. | Python, XGBoost | [View](https://github.com/Tim-Tim100/Customer-Churn-Prediction) |
 | **❤️ Heart Disease Risk** | **Healthcare Analytics:** Built a diagnostic support tool analyzing key medical indicators to predict potential cardiac risks. | Python, Seaborn | [View](https://github.com/Tim-Tim100/Heart-Disease-Prediction) |
-| **🏠 House Price Valuation** | **Market Analysis:** Engineered a regression model with advanced feature selection to accurately estimate real estate values based on market variables. | Scikit-Learn | [View](github.com/Tim-Tim100/House-Price-Prediction-) |
+| **🏠 House Price Valuation** | **Market Analysis:** Engineered a regression model with advanced feature selection to accurately estimate real estate values based on market variables. | Scikit-Learn | [View](https://github.com/Tim-Tim100/House-Price-Prediction-)) |
 |
 
 ---
