@@ -82,16 +82,7 @@ I am a **results-driven Data Scientist** and **ML Engineer** passionate about tr
 
 ---
 
-## 📊 **GitHub Activity**
 
-<div align="center">
-
-![Toyeeb's GitHub Stats](https://vercel.com/toyeeb-toyes-projects/tim-tim100)
-
-![Top Langs](https://vercel.com/toyeeb-toyes-projects/tim-tim100)
-
-</div>
----
 
 ## 🌱 **Growth & Development**
 I am currently expanding my skill set to bridge the gap between model development and production:
