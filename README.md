@@ -86,9 +86,9 @@ I am a **results-driven Data Scientist** and **ML Engineer** passionate about tr
 
 <div align="center">
 
-[![Toyeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tim-Tim100&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Toyeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tim-Tim100&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Tim100&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Tim100&layout=compact&theme=radical)]
 
 </div>
 
